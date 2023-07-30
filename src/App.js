@@ -69,6 +69,7 @@ const handleSubmit = e => {
           text={task.text}
           image={task.image}
           index={index}
+          // 
           />
         ))}
             </>
